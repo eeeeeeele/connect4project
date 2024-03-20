@@ -30,9 +30,6 @@ public class runner {
         //ends test
 
 
-
-
-
 /*
         while (connect.getWinner() == null ){
 
@@ -63,7 +60,9 @@ public class runner {
         }
 
  */
-    }
+    }//ends main
+
+
 
 
 }
